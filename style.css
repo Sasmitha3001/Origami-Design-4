@@ -1,0 +1,189 @@
+h1{
+color:rgb(62, 162, 219);
+text-align: center;
+}
+
+
+h2{
+    background-color:rgb(62, 162, 219);
+    color:white;
+    text-align: center;
+}
+
+.links{
+display: flex;
+justify-content: space-evenly;
+
+}
+
+.collage{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+a:link{
+    color:red;
+}
+
+.camel p{
+    font-size: 12px;
+    position: absolute;
+    top: 53%;
+    left: 1%;
+    translate: (-50%,-50%);
+}
+
+.chameleon p{
+    font-size: 12px;
+    position: absolute;
+    top: 53%;
+    left:26%;
+    translate: (-50%,-50%);
+}
+
+.cicada p{
+    font-size: 12px;
+    position: absolute;
+    top: 53%;
+    left:53%;
+    translate: (-50%,-50%);
+}
+
+.panda p{
+    font-size: 12px;
+    position: absolute;
+    top: 53%;
+    left:80%;
+    translate: (-50%,-50%);
+}
+
+.pigeon p{
+    font-size: 12px;
+    position: absolute;
+    top: 95%;
+    left:1%;
+    translate: (-50%,-50%);
+}
+
+.teddy p{
+    font-size: 12px;
+    position: absolute;
+    top: 95%;
+    left:26%;
+    translate: (-50%,-50%);
+}
+
+.fox p{
+    font-size: 12px;
+    position: absolute;
+    top: 95%;
+    left:53%;
+    translate: (-50%,-50%);
+}
+
+.penguin p{
+    font-size: 12px;
+    position: absolute;
+    top: 95%;
+    left:80%;
+    translate: (-50%,-50%);
+}
+
+.dinosaur p{
+    font-size: 12px;
+    position: absolute;
+    top: 135%;
+    left:15%;
+    translate: (-50%,-50%);
+}
+
+.crane p{
+    font-size: 12px;
+    position: absolute;
+    top: 135%;
+    left:60%;
+    translate: (-50%,-50%);
+}
+
+
+a:visited{
+    color: goldenrod;
+}
+
+a:hover{
+    color:hotpink
+}
+
+.camel img:hover{
+    opacity: 0.3;
+    transform:scale(1.5);
+}
+
+.camel img:hover{
+    opacity: 0.3;
+    transform:scale(1.5);
+}
+
+.chameleon img:hover{
+    opacity: 0.3;
+    transform:scale(1.5);
+}
+
+.cicada img:hover{
+    opacity: 0.3;
+    transform:scale(1.5);
+}
+
+.crane img:hover{
+    opacity: 0.3;
+    transform:scale(1.5);
+}
+
+.dinosaur img:hover{
+    opacity: 0.3;
+    transform:scale(1.5);
+}
+
+.fox img:hover{
+    opacity: 0.3;
+    transform:scale(1.5);
+}
+
+.panda img:hover{
+    opacity: 0.3;
+    transform:scale(1.5);
+}
+
+.penguin img:hover{
+    opacity: 0.3;
+    transform:scale(1.5);
+}
+
+.pigeon img:hover{
+    opacity: 0.3;
+    transform:scale(1.5);
+}
+
+.teddy img:hover{
+    opacity: 0.3;
+    transform:scale(1.5);
+}
+
+.camel p1{
+    position: absolute;
+    top:35%;
+    left:70%;
+    transform: translate(-50%,-50%);
+    opacity: 0;
+}
+
+.camel p1:hover{
+    opacity: 1;
+}
+
+
+
+
+
+
